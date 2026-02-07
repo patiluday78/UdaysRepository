@@ -1,3 +1,3 @@
 # UdaysRepository
 
-Author - Uday
+Author - Uday Patil
